@@ -66,9 +66,10 @@
 	-webkit-tap-highlight-color: transparent;
 }
 
+
 /* mouse grab icon */
 .grabbing {
-	cursor: url(grabbing.png) 8 8, move;
+	cursor: url(/images/grabbing.png) 8 8, move;
 }
 
 /* fix */
