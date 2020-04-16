@@ -2493,7 +2493,7 @@ header .logo a {
 	color: #000000;
 }
 
-#stats .icon-part img {
+#stats .icon-part img, #stats .icon-part svg {
 	width: 4.8rem;
 	color: #000000;
 }
